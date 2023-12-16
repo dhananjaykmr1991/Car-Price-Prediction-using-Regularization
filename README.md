@@ -29,5 +29,5 @@ Tasks/Activities List:
 Success Metrics:
 Below are the metrics for the successful submission of this case study:
 	-Sum of Squared Error metric for the best model < 5000
-	-The R-squared of the best model > 0.8
+ 	-The R-squared of the best model > 0.8
  
